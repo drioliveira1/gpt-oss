@@ -1,0 +1,9 @@
+{
+  "name": "gpt-oss",
+  "version": "1.0.0",
+  "description": "GPT-OSS — a base do meu ecossistema de IA pessoal e experimental",
+  "main": "src/main.js",
+  "scripts": { "dev": "node src/main.js" },
+  "author": "Adriano De Oliveira",
+  "license": "MIT"
+}
